@@ -1,5 +1,3 @@
-![Labor Dynamics Institute](LDIimage_11.22.19_FINALv1.jpg)
-
 # TRAINING For Reproducibility Verification (CIQSS/QICSS version)
 
 > Training will occur virtually, through a combination of required self-study and live Zoom meetings. 
@@ -12,7 +10,7 @@
 prior to Training
 ------
 
-Please have a look at the [list of tasks](https://labordynamicsinstitute.github.io/replicability-training-curriculum/pre-training.html) that should be accomplished before the first meeting. DO NOT FOLLOW THE CHECKLIST at that site. Use [this checklist instead](setup-checklist.md).
+Please have a look at the [list of tasks](pre-training-tasks.md) that should be accomplished before the first meeting. DO NOT FOLLOW THE CHECKLIST at that site. Use [this checklist instead](setup-checklist.md).
 
 ---
 
