@@ -51,3 +51,8 @@ Full Training Materials
 Please go to [https://labordynamicsinstitute.github.io/replicability-training-curriculum/](https://labordynamicsinstitute.github.io/replicability-training-curriculum/) for the full training materials.
 
 > NOTE: Some material is specific to the American Economic Association's process to verify articles prior to publication. 
+
+Notes
+-----
+
+- [Video conferencing etiquette](videoconferencing_rules_and_etiquette.md)
