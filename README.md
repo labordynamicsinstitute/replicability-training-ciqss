@@ -12,7 +12,7 @@
 prior to Training
 ------
 
-Please have a look at the [list of tasks](https://labordynamicsinstitute.github.io/replicability-training-curriculum/pre-training.html) that should be accomplished before the first meeting. 
+Please have a look at the [list of tasks](https://labordynamicsinstitute.github.io/replicability-training-curriculum/pre-training.html) that should be accomplished before the first meeting. DO NOT FOLLOW THE CHECKLIST at that site. Use [this checklist instead](setup-checklist.md).
 
 ---
 
