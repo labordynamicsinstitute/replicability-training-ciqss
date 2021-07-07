@@ -9,7 +9,7 @@ We ask that trainees accomplish a few tasks prior to the first training session.
 
 ## View
 
-- View [my recent talk on the background of the lab](https://www.youtube.com/watch?v=rLoeNzOApFk)), including what we do, and why we do it. 
+- View [my talk on the background of the lab](https://www.youtube.com/watch?v=rLoeNzOApFk), including what we do, and why we do it. 
 
 <a href="https://www.youtube.com/watch?v=rLoeNzOApFk"><img alt="Youtube video" src="images/RR_in_Social_Sciences_Statistics_Youtube20200320.png" width="400px"></a>
 
