@@ -1,16 +1,15 @@
 # TRAINING For Reproducibility Verification (CIQSS/QICSS version)
 
-> Training will occur virtually, through a combination of required self-study and live Zoom meetings. 
-> - The live part of the training will take place **July 12 and 13, 2021.** 
-> - Additional meetings will happen on the following 3 days at 13:00, to follow up on the training cases. 
+> Training will occur in person, with some self-study. 
+> - **June 13-17**
 > - Content is [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ---
 
-prior to Training
+Prior to Training
 ------
 
-Please have a look at the [list of tasks](pre-training-tasks.md) that should be accomplished before the first meeting. DO NOT FOLLOW THE CHECKLIST at that site. Use [this checklist instead](setup-checklist.md).
+Please have a look at the [list of tasks](pre-training-tasks.md) that should be accomplished before the first meeting. Use [this checklist instead](setup-checklist.md).
 
 ---
 
@@ -24,23 +23,18 @@ Items that are **bolded** are live lectures. Items that are *italicized* are in 
 > You should have received an invitation to register for the Zoom. If you have not, contact the trainer.
 
 
-| Time  |  July 12                                                 | July 13                             | July 14-15          | July 16 |
+| Time  |  June 13                                                 | June 14                             | June 15-16          | June 17 |
 |-------|----------------------------------------------------------|-------------------------------------|---------------------|---------|
-| 9:00  |  **Intro to: Reproducible practice**                     | *Debug any software issues*         | *Work on test article of the day* ||
-| 10:00 |  **Reproducible practice**                               | **Data provenance, data citations** | Work on test article of the day ||
-| 11:00 | **What will you be doing in the Summer School**          | **(cont.)**                         ||
+| 9:00  |  **Intro: Reproducibility - why bother?**                | *Debug any software issues*         | *Work on CJE articles* ||
+| 10:00 |  **Reproducible practice: What you can do!**             | **Toolkit: Online computing platforms: WholeTale, CodeOcean**| ||
+| 11:00 | **What will you be doing in the Summer School**          | **Capturing system and errors**     ||
 | 12:00 | Lunch Break                                              | Lunch Break                         ||
-| 13:00 | **Command line/Git/Markdown/Version control (optional)** | **Capturing system and errors**     | **Discuss and finish test article of the day, start next article**| **Wrap up** |
-| 14:00 | **A prototypical replication report**                    | Work on first test article          | Work on next test article||
-| 15:00 | **Start on first test article**                          ||||
-| 16:00 | Work on test article, review version control (git)       ||||
+| 13:00 | **Toolkit: Command line/Git/Markdown**                   | **Discuss and finish test article of the day**| **Wrap up** |
+| 14:00 | **Data provenance, data citations: where did they get this?**| Work on first test article          |||
+| 15:00 | **How to write a replication report: empathy and humility**  ||||
+| 16:00 | **Start on first test article**                              | **The CJE Papers: How reproducible are they?**|||
 
 On the last day, the wrap up session will discuss the last article, and lay out next steps.
-
-> For those working on StatCan or other confidential data projects, or doing self-guided reproducibility checks, follow-up meetings will be scheduled once per week.
-
-The *informal group meetings* on days 3 and 4 will be held in smaller groups, one in French, one in English, lead by the lead instructor and an experienced RA. 
-
 
 
 Full Training Materials
@@ -50,7 +44,4 @@ Please go to [https://labordynamicsinstitute.github.io/replicability-training-cu
 
 > NOTE: Some material is specific to the American Economic Association's process to verify articles prior to publication. 
 
-Notes
------
 
-- [Video conferencing etiquette](videoconferencing_rules_and_etiquette.md)
