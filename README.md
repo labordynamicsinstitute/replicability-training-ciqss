@@ -34,14 +34,4 @@ Items that are **bolded** are live lectures. Items that are *italicized* are in 
 | 15:00 | **How to write a replication report: empathy and humility**  ||||
 | 16:00 | **Start on first test article**                              | **The CJE Papers: How reproducible are they?**|||
 
-On the last day, the wrap up session will discuss the last article, and lay out next steps.
-
-
-Full Training Materials
-----------------------
-
-Please go to [https://labordynamicsinstitute.github.io/replicability-training-curriculum/](https://labordynamicsinstitute.github.io/replicability-training-curriculum/) for the full training materials.
-
-> NOTE: Some material is specific to the American Economic Association's process to verify articles prior to publication. 
-
 
