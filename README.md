@@ -36,4 +36,8 @@ Items that are **bolded** are live lectures. Items that are *italicized* are in 
 | 16:00 | **[Start on first test article](https://labordynamicsinstitute.github.io/replicability-training-presentation/part7.html)**                              | **The CJE Papers: How reproducible are they?**|||
 
 
+Post-workshop
+-------------
+
+The [Replication Challenge](replication-challenge.html) is described [separately](replication-challenge.html). 
 
