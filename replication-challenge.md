@@ -13,7 +13,7 @@ The first step is an accepted reproducibility report. The report will be reviewe
 The final deliverable should satisfy certain criteria in order to be eligible for the final payment of the Challenge:
 
 - at a minimum, the replication should be push-button reproducible. It should have a single controller file (`main.do`, `principal.py`, etc.) driving the analysis.
-  - an exception is when data needs to be downloaded. This should be clear to the replicator. For internal assessment, the data should be provided to the Marie and Lars (Dropbox, Drive, capsules)
+  - an exception is when data needs to be downloaded. This should be clear to the replicator. For internal assessment, the data should be provided to  Marie and Lars (Dropbox, Drive, capsules)
 - the replication package should have a README, separate from the original authors' README, detailing the necessary steps, and the changes and enhancements made
   - Referencing a Git log or similar for the changes is acceptable. A summary of the changes should be provided.
 - the changes made to the replication package should be tracked in a Github repository
