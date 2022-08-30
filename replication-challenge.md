@@ -37,7 +37,7 @@ No meeting. Please submit the reproducibility check (based on REPLICATION.md) fo
 
 No meeting. Lars and Marie will confirm that the proposed project of improvement is acceptable. Once you have received this approval, you are ready to start on the improvement part.
 
-### 1 September  2022: time TBD
+### 1 September  2022: 13h00 - 14h00
 
 We will all meet and assess everybody's progress. At this meeting, you should be prepared to
 
