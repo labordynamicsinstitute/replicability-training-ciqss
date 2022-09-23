@@ -49,7 +49,7 @@ Tutorial (optional, as needed)
 - After the status update, we will provide a brief tutorial and debug session on maintaining a Github repository.
 
 
-### 3 October 2022 9h30-10h30
+### 3 October 2022 10h00-11h00
 
 At this time, we want to see additional progress, but we will also take the time to talk about how to best share and structure the improved replication package.  At this meeting, you should be prepared to
 
