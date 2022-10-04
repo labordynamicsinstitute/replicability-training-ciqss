@@ -61,6 +61,7 @@ At this time, we want to see additional progress, but we will also take the time
 Tutorial (optional, as needed)
 
 - After the status update, we will provide a brief tutorial on how to create releases on Github, and how to publish releases from Github to Dataverse or Zenodo.
+  - Follow-up: the tutorial was about how to use Github to convey the necessary information. [Notes](https://github.com/larsvilhuber/reproduction-105683-sp3-dwxhg9/blob/lars/NOTES.md). Participants were emailed a link to a recording. Others should contact Marie if they want to watch the tutorial.
 
 ### 1 November 2022 9h30-10h30
 
