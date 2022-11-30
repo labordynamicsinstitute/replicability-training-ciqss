@@ -75,7 +75,7 @@ Tutorial (optional, as needed)
 
 - After the status update, we will provide a brief tutorial on how to record the replication on the [SSRP](https://www.socialsciencereproduction.org/).
 
-### 2 December 2022 9h30-10h30
+### 30 November 2022 9h30-10h30
 
 At this time, you should be ready to wrap up the replication challenge. At this meeting, you should be prepared to
 
